@@ -1,0 +1,22 @@
+{
+ "zene":[
+    {
+        "id": "Z1",
+        "cim": "MAFIA",
+        "eloado": "Travis Scott",
+        "db": 50
+    },
+    {
+        "id": "Z2",
+        "cim": "coordinate",
+        "eloado": "Travis Scott",
+        "db": 40
+    },
+    {
+        "id": "Z3",
+        "cim": "All alone",
+        "eloado": "Freddie Dredd",
+        "db": 30
+    }
+ ]   
+}
